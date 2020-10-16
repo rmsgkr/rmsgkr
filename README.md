@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Geunhak Lee who has a dream of being a developer from South Korea.
+
+If you want to contact me, please leave me a message!
+
 <!--
 **rmsgkr/rmsgkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
